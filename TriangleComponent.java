@@ -6,6 +6,8 @@
  *  of the sides. Continues until a triangle is too small to draw.
  */
  
+
+//hi jerone
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
